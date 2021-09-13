@@ -81,16 +81,9 @@ Please feel free to clone/fork my repos. Star them if you like it!😄
 
 ### Social Media
 
-You can find me on  [![LinkedIn][2.2]][2], also check out my [Personal Website][3]
+<!--Icon sourced from https://icons8.com/icon/13930/linkedin> -->
+You can find me on <a href="https://www.linkedin.com/in/prithvijit-guha-4a65b03a/"><img src="static/linkedin_logo.png" width="20px"></a>, also check out my personal website <a href="https://prithvijitguha.github.io/">personal website</a>
 
-<!-- Icons -->
-
-[2.2]: static/linkedin.png (LinkedIn icon without padding)
-
-<!-- Links to social media -->
-
-[2]: https://www.linkedin.com/in/prithvijit-guha-4a65b03a/
-[3]: https://prithvijitguha.github.io/
 
 
 
