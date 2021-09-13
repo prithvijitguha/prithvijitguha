@@ -1,5 +1,7 @@
-# Hey there fellow developers <img src="static/Hi.gif" width="30px">
-
+# Hey there fellow developers <img src="static/Hi.gif" width="30px"/><br>
+  
+    
+<img src="static/header.png" alt="header" width="600px"/>
 
 <h3>
 Welcome to my github profile, I'm a Software Developer/Data Engineer based out of India. 
@@ -12,7 +14,7 @@ Please feel free to clone/fork my repos. Star them if you like it!
 <br>
 <div id="skill_stack">
 
-<img alt="Night Coding" src="static/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" height="120px" src="static/Night-Coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
@@ -31,10 +33,9 @@ Please feel free to clone/fork my repos. Star them if you like it!
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-</div>
-
-
-
+</div> 
+<br>
+<br> 
 
 ## Web Development Projects
 
