@@ -1,15 +1,19 @@
-# <img src="static/Hi.gif" width="30px"/> Hey there fellow developers 
+# <img src="static/Hi.gif" width="30px"/> Hey there fellow developer!
   
-    
+<!--- Photo by <a href="https://unsplash.com/@agk42?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Knight</a> on <a href="https://unsplash.com/s/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+--->
+  
 <img src="static/header.jpg" alt="header" width="400px" height="250px"/>
 
 <h3>
 <br>
 Welcome to my github profile, I'm a Software Developer/Data Engineer based out of India. 
-Please feel free to clone/fork my repos. Star them if you like it!😄
+Please feel free to clone/fork my repos. Star them if you like it!🤩
 </h3>
 <br>
 <br>
+
+<!---Emoji icons sourced from https://emojipedia.org --->
 
 ## 🛠 Skills
 <br>
@@ -18,16 +22,18 @@ Please feel free to clone/fork my repos. Star them if you like it!😄
 <img alt="Night Coding" height="120px" src="static/Night-Coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas)&nbsp;
 ![PySpark](https://img.shields.io/badge/Pyspark-05122A?style=flat&logo=apachespark)
-![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=007ACC)&nbsp;
+![DataBricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks&logoColor=007ACC)&nbsp;
+![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=007ACC)
 ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![AzureDataFactory](https://img.shields.io/badge/AzureDataFactory-05122A?style=flat&logo=microsoftazure)&nbsp;
@@ -60,7 +66,7 @@ Please feel free to clone/fork my repos. Star them if you like it!😄
     <li><a target="_blank" href="https://github.com/prithvijitguha/tictactoe"><b>TicTacToe</b></a></li>
     Tic Tac Toe game with AI using Min-Max algorithm.
     <li><a target="_blank" href="https://github.com/prithvijitguha/TrafficSignAI"><b>TrafficSignAI</b></a></li>
-    Traffic Sign classifier into 41 categories using TensorFlow library using Convolutional Neural Network.
+    Convolutional Neural Network to classify traffic signs into 41 labels using Tensorflow library.
     <li><a target="_blank" href="https://github.com/prithvijitguha/minesweeper"><b>Minesweeper</b></a></li>
     AI assisted Minesweeper Game
 
@@ -75,12 +81,11 @@ Please feel free to clone/fork my repos. Star them if you like it!😄
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=contribs,issues,prs">
 </p>
 
-<!-- Actual text -->
 
-### Social Media
+## 📱 Social Media
 
 <!--Icon sourced from https://icons8.com/icon/13930/linkedin> -->
-You can find me on <a href="https://www.linkedin.com/in/prithvijit-guha-4a65b03a/"><img src="static/linkedin_logo.png" width="20px"></a>, also check out my personal website <a href="https://prithvijitguha.github.io/">personal website</a>
+You can find me on <a target="_blank" href="https://www.linkedin.com/in/prithvijit-guha-4a65b03a/"><img src="static/linkedin_logo.png" width="20px"></a>, also check out my personal website <a target="_blank" href="https://prithvijitguha.github.io/">personal website</a>
 
 
 
