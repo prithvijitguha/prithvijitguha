@@ -46,6 +46,8 @@ Please feel free to clone/fork my repos. Star them if you like it!
     Proof of concept for cloud storage for multiple users. Built using Flask, Python and Javascript.
     <li><a target="_blank" href="https://cs50-finance-pj.herokuapp.com/"><b>Stock Trading Application</b></a></li>
     Stock trading application for users to buy, sell stocks listed on NASDAQ with mock funds. 
+    <li><a target="_blank" href="https://prithvijitguha.github.io/"><b>Personal Website</b></a></li>
+    Personal website hosted with github pages.
 </ul>
 
 ## AI Projects
