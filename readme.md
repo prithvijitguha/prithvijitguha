@@ -85,7 +85,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ## 📱 Social Media
 
 <!--Icon sourced from https://icons8.com/icon/13930/linkedin> -->
-You can find me on <a target="_blank" href="https://www.linkedin.com/in/prithvijit-guha-4a65b03a/"><img src="static/linkedin_logo.png" width="20px"></a>, also check out my personal website <a target="_blank" href="https://prithvijitguha.github.io/">personal website</a>
+You can find me on <a target="_blank" href="https://www.linkedin.com/in/prithvijit-guha-4a65b03a/"><img src="static/linkedin_logo.png" width="20px"></a>, also check out my <a target="_blank" href="https://prithvijitguha.github.io/">personal website</a>
 
 
 
