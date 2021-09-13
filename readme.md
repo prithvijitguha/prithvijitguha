@@ -1,11 +1,12 @@
-# Hey there fellow developers <img src="static/Hi.gif" width="30px"/><br>
+# <img src="static/Hi.gif" width="30px"/> Hey there fellow developers 
   
     
-<img src="static/header.png" alt="header" width="600px"/>
+<img src="static/header.jpg" alt="header" width="400px" height="250px"/>
 
 <h3>
+<br>
 Welcome to my github profile, I'm a Software Developer/Data Engineer based out of India. 
-Please feel free to clone/fork my repos. Star them if you like it!
+Please feel free to clone/fork my repos. Star them if you like it!😄
 </h3>
 <br>
 <br>
@@ -37,7 +38,7 @@ Please feel free to clone/fork my repos. Star them if you like it!
 <br>
 <br> 
 
-## Web Development Projects
+## 🌐 Web Development Projects
 
  <ul>
     <li><a target="_blank" href="http://safeindex.herokuapp.com/"><b>Safeindex</b></a></li>
@@ -50,7 +51,7 @@ Please feel free to clone/fork my repos. Star them if you like it!
     Personal website hosted with github pages.
 </ul>
 
-## AI Projects
+## 🤖 AI Projects
 
 
 <ul>
@@ -75,18 +76,21 @@ Please feel free to clone/fork my repos. Star them if you like it!
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=prithvijitguha&show_icons=true&theme=dark&hide=contribs,issues">
 </a>
 </p>
-<br>
-<br>
-<br>
 
+<!-- Actual text -->
 
+### Social Media
 
+You can find me on  [![LinkedIn][2.2]][2], also check out my [Personal Website][3]
 
-<br>
-<br>
-<br>
+<!-- Icons -->
 
-        
+[2.2]: static/linkedin.png (LinkedIn icon without padding)
+
+<!-- Links to social media -->
+
+[2]: https://www.linkedin.com/in/prithvijit-guha-4a65b03a/
+[3]: https://prithvijitguha.github.io/
 
 
 
