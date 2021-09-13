@@ -71,10 +71,8 @@ Please feel free to clone/fork my repos. Star them if you like it!😄
 ## ⚙️ Github Stats
 <br>
 <p>
-<a href="https://github.com/prithvijitguha">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=html">&nbsp;
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=contribs,issues,prs">
-</a>
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=html">&nbsp;
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=contribs,issues,prs">
 </p>
 
 <!-- Actual text -->
