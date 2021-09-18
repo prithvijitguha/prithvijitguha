@@ -47,13 +47,13 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ## 🌐 Web Development Projects
 
  <ul>
-    <li><a target="_blank" href="http://safeindex.herokuapp.com/"><b>Safeindex</b></a></li>
+    <li><a href="http://safeindex.herokuapp.com/" target="_blank"><b>Safeindex</b></a></li>
     A website that aggregates safety and hygiene reviews for public places, theaters, restaurants. Built using Django, Python and Google Javascript Maps API.
-    <li><a target="_blank" href="https://drop-n-pic.herokuapp.com/"><b>Drop-n-pic</b></a></li>
+    <li><a href="https://drop-n-pic.herokuapp.com/" target="_blank" ><b>Drop-n-pic</b></a></li>
     Proof of concept for cloud storage for multiple users. Built using Flask, Python and Javascript.
-    <li><a target="_blank" href="https://cs50-finance-pj.herokuapp.com/"><b>Stock Trading Application</b></a></li>
+    <li><a href="https://cs50-finance-pj.herokuapp.com/" target="_blank" ><b>Stock Trading Application</b></a></li>
     Stock trading application for users to buy, sell stocks listed on NASDAQ with mock funds. 
-    <li><a target="_blank" href="https://prithvijitguha.github.io/"><b>Personal Website</b></a></li>
+    <li><a href="https://prithvijitguha.github.io/" target="_blank" ><b>Personal Website</b></a></li>
     Personal website hosted with github pages.
 </ul>
 
@@ -61,13 +61,13 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 
 
 <ul>
-    <li><a target="_blank" href="https://github.com/prithvijitguha/Information-Retrieval-Bot/blob/main/ai.py"><b>Information Retrieval Bot</b></a></li>
+    <li><a href="https://github.com/prithvijitguha/Information-Retrieval-Bot/blob/main/ai.py" target="_blank"><b>Information Retrieval Bot</b></a></li>
     A question answering bot NLP for open domain short form answering. Built using web scraping and analysing data with term frequency - inverse document frequency formula.
-    <li><a target="_blank" href="https://github.com/prithvijitguha/tictactoe"><b>TicTacToe</b></a></li>
-    Tic Tac Toe game with AI using Min-Max algorithm.
-    <li><a target="_blank" href="https://github.com/prithvijitguha/TrafficSignAI"><b>TrafficSignAI</b></a></li>
+    <li><a href="https://github.com/prithvijitguha/tictactoe" target="_blank" ><b>TicTacToe</b></a></li>
+    Tic Tac Toe game with AI using Minimax algorithm.
+    <li><a href="https://github.com/prithvijitguha/TrafficSignAI" target="_blank" ><b>TrafficSignAI</b></a></li>
     Convolutional Neural Network to classify traffic signs into 41 labels using Tensorflow library.
-    <li><a target="_blank" href="https://github.com/prithvijitguha/minesweeper"><b>Minesweeper</b></a></li>
+    <li><a href="https://github.com/prithvijitguha/minesweeper" target="_blank" ><b>Minesweeper</b></a></li>
     AI assisted Minesweeper Game
 
 
