@@ -19,6 +19,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 <br>
 <div id="skill_stack">
 
+<!---<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>--->
 <img alt="Night Coding" height="120px" src="static/Night-Coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
