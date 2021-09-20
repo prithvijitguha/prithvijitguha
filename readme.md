@@ -18,9 +18,9 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ## 🛠 Skills
 <br>
 <div id="skill_stack">
+<!--Image sourced from https://dribbble.com/shots/4171367-Coding-Freak#-->
 
-<!---<iframe src="https://giphy.com/embed/xUA7bdpLxQhsSQdyog" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog">via GIPHY</a></p>--->
-<img alt="Night Coding" height="120px" src="static/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" height="120px" src="static/coding.gif" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
@@ -75,7 +75,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 </ul>
 <br>
 
-## ⚙️ Github Stats
+## 📈 Github Stats
 <br>
 <p>
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=html">&nbsp;
