@@ -62,7 +62,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 
 
 <ul>
-    <li><a href="https://github.com/prithvijitguha/Information-Retrieval-Bot/blob/main/ai.py" target="_blank"><b>Information Retrieval Bot</b></a></li>
+    <li><a href="https://github.com/prithvijitguha/Information-Retrieval-Bot" target="_blank"><b>Information Retrieval Bot</b></a></li>
     A question answering bot NLP for open domain short form answering. Built using web scraping and analysing data with term frequency - inverse document frequency formula.
     <li><a href="https://github.com/prithvijitguha/tictactoe" target="_blank" ><b>TicTacToe</b></a></li>
     Tic Tac Toe game with AI using Minimax algorithm.
