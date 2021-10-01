@@ -2,13 +2,19 @@
   
 <!--- Photo by <a href="https://unsplash.com/@agk42?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Knight</a> on <a href="https://unsplash.com/s/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 --->
-  
 <img src="static/header.jpg" alt="header" width="400px" height="250px"/>
 
 <h3>
 <br>
-Welcome to my github profile, I'm a Software Developer/Data Engineer based out of India. 
+Welcome to my github profile, I'm a Software Developer/Data Engineer based out of India.
+
+Interested in Python, Machine Learning, Web Development, Neural Networks and everything software development.
+
+Fun Fact: I can solve a Rubik's cube in under a minute. 
+
 Please feel free to clone/fork my repos. Star them if you like it!🤩
+
+
 </h3>
 <br>
 <br>
