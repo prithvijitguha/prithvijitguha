@@ -51,7 +51,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 <br>
 <br> 
 
-## 🌐 Web Development Projects(Website Links)
+## 🌐 Web Development Projects (Website Links)
 
  <ul>
     <li><a href="http://safeindex.herokuapp.com/" target="_blank"><b>Safeindex</b></a></li>
@@ -64,7 +64,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
     Personal website hosted with github pages.
 </ul>
 
-## 🤖 AI Projects(Repo Links)
+## 🤖 AI Projects (Repo Links)
 
 
 <ul>
