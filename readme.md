@@ -43,7 +43,9 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
 ![AzureDataFactory](https://img.shields.io/badge/AzureDataFactory-05122A?style=flat&logo=microsoftazure)&nbsp;
+![Airflow](https://img.shields.io/badge/ApacheAirflow-05122A?style=flat&logo=ApacheAirflow)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
@@ -84,7 +86,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ## 📈 Github Stats
 <br>
 <p>
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=html">&nbsp;
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=html,Makefile">&nbsp;
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=contribs">
 </p>
 
