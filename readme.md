@@ -26,7 +26,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 <div id="skill_stack">
 <!--Image sourced from https://dribbble.com/shots/4171367-Coding-Freak#-->
 
-<img alt="Night Coding" height="90px" src="static/coding.gif" align="right"/>
+<img alt="Night Coding" height="120px" src="static/coding.gif"/>
 
 Property | Data
 --- | ---
