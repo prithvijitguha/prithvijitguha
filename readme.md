@@ -1,5 +1,5 @@
 # <img src="static/Hi.gif" width="30px"/> Hey there fellow developer!
-  
+
 <!--- Photo by <a href="https://unsplash.com/@agk42?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Knight</a> on <a href="https://unsplash.com/s/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 --->
 <img src="static/header.jpg" alt="header" width="400px" height="250px"/>
@@ -10,7 +10,7 @@ Welcome to my github profile, I'm a Software Developer/Data Engineer based out o
 
 Interested in Python, Machine Learning, Web Development, Neural Networks and everything software development.
 
-Fun Fact: I can solve a Rubik's cube in under a minute. 
+Fun Fact: I can solve a Rubik's cube in under a minute.
 
 Please feel free to clone/fork my repos. Star them if you like it!🤩
 
@@ -49,19 +49,21 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-</div> 
+</div>
 <br>
-<br> 
+<br>
 
 ## 🌐 Web Development Projects (Website Links)
 
  <ul>
+    <li><a href="https://github.com/prithvijitguha/MyView" target="_blank"><b>MyView</b></a></li>
+    An online video sharing platform built with FastAPI and React
     <li><a href="http://safeindex.herokuapp.com/" target="_blank"><b>Safeindex</b></a></li>
     A website that aggregates safety and hygiene reviews for public places, theaters, restaurants. Built using Django, Python and Google Javascript Maps API.
     <li><a href="https://drop-n-pic.herokuapp.com/" target="_blank" ><b>Drop-n-pic</b></a></li>
     Proof of concept for cloud storage for multiple users. Built using Flask, Python and Javascript.
     <li><a href="https://cs50-finance-pj.herokuapp.com/" target="_blank" ><b>Stock Trading Application</b></a></li>
-    Stock trading application for users to buy, sell stocks listed on NASDAQ with mock funds. 
+    Stock trading application for users to buy, sell stocks listed on NASDAQ with mock funds.
     <li><a href="https://prithvijitguha.github.io/" target="_blank" ><b>Personal Website</b></a></li>
     Personal website hosted with github pages.
 </ul>
@@ -90,6 +92,8 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=prithvijitguha&show_icons=true&theme=tokyonight&hide=contribs">
 </p>
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prithvijitguha&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📱 Social Media
 
