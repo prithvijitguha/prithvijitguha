@@ -2,8 +2,8 @@
 
 <!--- Photo by <a href="https://unsplash.com/@agk42?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Alex Knight</a> on <a href="https://unsplash.com/s/photos/robot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 --->
-<img src="static/header.jpg" alt="header" width="400px" height="250px"/>
-
+<img src="static/coding.gif" alt="header" width="400px" height="250px"/>
+<!--Image sourced from https://dribbble.com/shots/4171367-Coding-Freak#-->
 <h3>
 <br>
 Welcome to my github profile, I'm a Software Developer/Data Engineer based out of India.
@@ -24,9 +24,7 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 ## 🛠 Skills
 <br>
 <div id="skill_stack">
-<!--Image sourced from https://dribbble.com/shots/4171367-Coding-Freak#-->
 
-<img alt="Night Coding" height="120px" src="static/coding.gif"/>
 
 Property | Data
 --- | ---
