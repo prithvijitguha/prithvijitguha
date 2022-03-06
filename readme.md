@@ -28,28 +28,18 @@ Please feel free to clone/fork my repos. Star them if you like it!🤩
 
 <img alt="Night Coding" height="120px" src="static/coding.gif" align="right"/>
 
-![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas)&nbsp;
-![PySpark](https://img.shields.io/badge/Pyspark-05122A?style=flat&logo=apachespark)
-![DataBricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks&logoColor=007ACC)&nbsp;
-![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=007ACC)
-![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-05122A?style=flat&logo=heroku&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp;
-![AzureDataFactory](https://img.shields.io/badge/AzureDataFactory-05122A?style=flat&logo=microsoftazure)&nbsp;
-![Airflow](https://img.shields.io/badge/ApacheAirflow-05122A?style=flat&logo=ApacheAirflow)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+Property | Data
+--- | ---
+**Languages** | ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp; ![Javascript](https://img.shields.io/badge/Javascript-05122A?style=flat&logo=Javascript)&nbsp; ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp; ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+**Domains** | ![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-05122A?style=flat)&nbsp;![Web Development](https://img.shields.io/badge/-Web%20Development-05122A?style=flat)&nbsp;![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-05122A?style=flat)&nbsp;
+**Frameworks** | ![PySpark](https://img.shields.io/badge/Pyspark-05122A?style=flat&logo=apachespark) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;![Tensorflow](https://img.shields.io/badge/Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=Pandas)&nbsp; ![Transformers](https://img.shields.io/badge/-Transformers-05122A?style=flat&logo=transformers&logoColor=007ACC) ![ReactJS](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+**Platforms & Tools** | ![DataBricks](https://img.shields.io/badge/Databricks-05122A?style=flat&logo=databricks&logoColor=007ACC)&nbsp; ![Azure](https://img.shields.io/badge/Microsoft_Azure-05122A?style=flat&logo=microsoft-azure)&nbsp; ![AzureDataFactory](https://img.shields.io/badge/AzureDataFactory-05122A?style=flat&logo=microsoftazure)&nbsp; ![Airflow](https://img.shields.io/badge/ApacheAirflow-05122A?style=flat&logo=ApacheAirflow)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+**Databases** |![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=007ACC)&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQ-05122A?style=flat&logo=postgresql&logoColor=007ACC)&nbsp;
+**CI/CD** | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat&logo=github)&nbsp;![AzurePipelines](https://img.shields.io/badge/Azure%20Pipelines-05122A?style=flat&logo=microsoftazure)&nbsp;![AzureRepos](https://img.shields.io/badge/-Azure%20Repos-05122A?style=flat&logo=microsoftazure)&nbsp;
 
 </div>
+
+
 <br>
 <br>
 
