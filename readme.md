@@ -60,7 +60,8 @@ Property | Data
 
 
 <ul>
-    <li><a href="https://github.com/prithvijitguha/flowrunner" target="_blank"><b>Flowrunner is a lightweight package to organize and represent Data Engineering/Science workflows</b></a></li>
+    <li><a href="https://github.com/prithvijitguha/flowrunner" target="_blank"><b>Flowrunner</b></a></li>
+    Flowrunner is a lightweight package to organize and represent Data Engineering/Science workflows
     <li><a href="https://github.com/prithvijitguha/Information-Retrieval-Bot" target="_blank"><b>Information Retrieval Bot</b></a></li>
     A question answering bot NLP for open domain short form answering. Built using web scraping and analysing data with term frequency - inverse document frequency formula.
     <li><a href="https://github.com/prithvijitguha/tictactoe" target="_blank" ><b>TicTacToe</b></a></li>
